@@ -4,10 +4,13 @@ The lambda calculus has a very simple core which can serve as the core mechanic
 of a puzzle game. The player is given a series of input/output and he/she has
 to come up with the combinator with the desired functionality.
 
-# Theme ideas
+# Ideas
 
-A combinator is a one-time clone machine. It takes an input and clones it, the
+* A combinator is a one-time clone machine. It takes an input and clones it, the
 original input is destroyed.
+
+* Give names to combinators created in earlier levels so that it can reused in
+later levels. Add these named combinators to the player's toolbox.
 
 # Related games
 
