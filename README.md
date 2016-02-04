@@ -1,6 +1,8 @@
-# Goal
+# Lambda calculus as a puzzle game
 
-Create a game to teach lambda calculus using a series of puzzles.
+The lambda calculus has a very simple core which can serve as the core mechanic
+of a puzzle game. The player is given a series of input/output and he/she has
+to come up with the combinator with the desired functionality.
 
 # Related work
 
