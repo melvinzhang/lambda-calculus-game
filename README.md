@@ -12,6 +12,8 @@ original input is destroyed.
 * Give names to combinators created in earlier levels so that it can reused in
 later levels. Add these named combinators to the player's toolbox.
 
+* Allow players to create and share levels (suggested by Danien).
+
 # Related games
 
 * Alligator Eggs
