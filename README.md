@@ -14,6 +14,8 @@ later levels. Add these named combinators to the player's toolbox.
 
 * Allow players to create and share levels (suggested by Danien).
 
+* [Levels](levels.md)
+
 # Questions
 
 * What is a good metaphor for combinators and how to represent them visually?
