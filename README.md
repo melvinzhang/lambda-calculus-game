@@ -31,6 +31,9 @@ later levels. Add these named combinators to the player's toolbox.
 * Mocking bird
   * http://dkeenan.com/Lambda/index.htm
 
+* Combinators
+  * https://dirk.rave.org/combinatris/
+
 * Functional transformation
   * http://david-peter.de/cube-composer/
 
