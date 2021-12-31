@@ -27,6 +27,8 @@ later levels. Add these named combinators to the player's toolbox.
 * Alligator Eggs
   * http://worrydream.com/AlligatorEggs/
   * http://metatoys.org/alligator/
+  * https://tibordp.github.io/gator-calculus/
+  * https://teamcroggle.github.io/
 
 * Mocking bird
   * http://dkeenan.com/Lambda/index.htm
